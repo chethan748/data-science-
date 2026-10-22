@@ -1,3 +1,4 @@
-2026-10-22 19:53:06=module1=DEBUG=this is debug msg for module 1
-2026-10-22 19:53:06=module2=WARNING= this is warning for module 3
-2026-10-22 19:53:06=module2=ERROR= this is a error message 
+2026-10-22 20:06:41=arithmeaticapp=DEBUG=adding 10+20 =30
+2026-10-22 20:06:41=arithmeaticapp=DEBUG= substracting 20+10 =10
+2026-10-22 20:06:41=arithmeaticapp=DEBUG= Multiplication  10+10 =100
+2026-10-22 20:06:41=arithmeaticapp=ERROR=Zero division error 
